@@ -1,6 +1,6 @@
 {
-    "name": "kniferpg/querylist-rule-so",
-    "description": "This is a demo for build querylist-root \b",
+    "name": "jaeger/querylist-rule-so",
+    "description": "This is a demo for build querylist-root-so,use for www.so.com.",
     "require": {
         "PHP":">=7.0"
     },
