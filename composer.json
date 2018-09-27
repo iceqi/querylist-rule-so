@@ -1,0 +1,22 @@
+{
+    "name": "kniferpg/querylist-rule-so",
+    "description": "This is a demo for build querylist-root \b",
+    "require": {
+        "PHP":">=7.0"
+    },
+    "require-dev":{
+        "jaeger/querylist":"dev-master"
+    },
+    "autoload":{
+        "psr-4":{
+            "QL\\Ext\\":""
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kniferpg",
+            "email": "kniferpg@qq.com"
+        }
+    ]
+}
