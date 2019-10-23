@@ -1,5 +1,5 @@
 {
-    "name": "kniferpg/querylist-rule-so",
+    "name": "iceqi/querylist-rule-so",
     "description": "This is a demo for build querylist-root-so,use for www.so.com. just for test",
     "require": {
         "PHP":">=7.0"
